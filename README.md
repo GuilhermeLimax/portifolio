@@ -1,14 +1,17 @@
 # portifolio
 Ola, bem vindo  ao meu projeto de portifolio.
 
-##Ferramentas utilizada:
+## Ferramentas utilizadas :
 
-* HTml
-* css
+* HTML
+*  CSS
 * Flex-Box
 
-##Feito por:
-###Guilherme Lima
+## Feito por:
 
-###Linkedin: https://www.linkedin.com/in/guilherme-lima-b5a845111/
+### Guilherme Lima
+
+### Linkedin : https://www.linkedin.com/in/guilherme-lima-b5a845111/
+
+
 
